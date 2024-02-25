@@ -39,15 +39,10 @@ This project contains the source code for a Tic-Tac-Toe web application. It offe
 
 To play the game locally, follow these simple steps:
 
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/himanshumaurya0007/PRODIGY_WD_03.git
-```
-
-2. Open the `index.html` file in your web browser.
-
-3. Start playing Tic-Tac-Toe!
+1. Clone this repository to your local machine.
+2. Navigate to the `PRODIGY_WD_03` folder.
+3. Open `index.html` file in your web browser.
+4. Start playing Tic-Tac-Toe!
 
 ## Usage
 
