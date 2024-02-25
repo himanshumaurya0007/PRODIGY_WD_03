@@ -42,7 +42,7 @@ To play the game locally, follow these simple steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/himanshumaurya0007/PRODIGY_WD_03.git
 ```
 
 2. Open the `index.html` file in your web browser.
