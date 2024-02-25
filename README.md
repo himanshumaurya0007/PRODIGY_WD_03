@@ -51,7 +51,7 @@ git clone https://github.com/your-username/tic-tac-toe.git
 
 ## Usage
 
-Choose your game mode (Player vs. Player or Player vs. AI) and click on the cells of the grid to place your markers. Strive to create a sequence of three markers in a row, either horizontally, vertically, or diagonally, to win the game. If all cells are filled without a winner, the game ends in a draw. Use the reset button to start a new game at any time.
+Click on the cells of the grid to place your markers. Strive to create a sequence of three markers in a row, either horizontally, vertically, or diagonally, to win the game. If all cells are filled without a winner, the game ends in a draw. Use the reset button to start a new game at any time.
 
 ## Contributing
 
