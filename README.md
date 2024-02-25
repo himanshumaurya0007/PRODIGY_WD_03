@@ -20,7 +20,6 @@ This project contains the source code for a Tic-Tac-Toe web application. It offe
 
 - **Responsive Design:** The game is designed to adapt to various screen sizes and devices, ensuring a seamless experience across desktop and mobile platforms.
 - **Player vs. Player:** Challenge a friend and compete in exciting matches to determine the ultimate Tic-Tac-Toe champion.
-- **Player vs. AI:** Test your skills against a computer-controlled opponent, with varying levels of difficulty to match your expertise.
 - **Interactive Gameplay:** Click on the grid to place your marker ('X' or 'O') and strategize your moves to outsmart your opponent.
 - **Winning Detection:** The game automatically detects winning combinations and declares the winner when a player achieves three markers in a row.
 - **Draw Detection:** If all cells are filled without a winner, the game recognizes a draw and ends the match.
